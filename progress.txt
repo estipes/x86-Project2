@@ -5,7 +5,7 @@ chall-03 - Done
 chall-04 - Done
 chall-05 - Done
 chall-06 - Done
-chall-07
+chall-07 - Done
 chall-08
 chall-09
 chall-10
