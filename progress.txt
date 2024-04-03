@@ -8,7 +8,7 @@ chall-06 - Done
 chall-07 - Done
 chall-08
 chall-09
-chall-10
+chall-10 - Done
 chall-11
 chall-12
 chall-13
